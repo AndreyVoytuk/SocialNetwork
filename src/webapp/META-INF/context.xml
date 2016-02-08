@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Context path="SocialNetwork/src">
+    <Resource
+            name="jdbc/SocialNetwork"
+            auth="Container"
+            type="javax.sql.DataSource"
+            username="postgres"
+            password="Hameleon123"
+            driverClassName="org.postgresql.Driver"
+            url="jdbc:postgresql://localhost:5432/SocialNetwork">
+    </Resource>
+</Context>
